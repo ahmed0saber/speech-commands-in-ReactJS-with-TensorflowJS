@@ -1,6 +1,6 @@
-### speech-commands-in-ReactJS-with-TensorflowJS
+### Speech Commands in ReactJS with TensorflowJS
 
-### if you got an error due to using webpack v5 or higher
+#### if you got an error due to using webpack v5 or higher
 1) install util
 
 <code>
